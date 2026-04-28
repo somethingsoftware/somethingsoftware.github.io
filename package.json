@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/somethingsoftware/main-website#readme",
   "dependencies": {
-    "express": "^4.18.2",
+    "express": "^4.22.1",
     "request": "^2.88.2"
   }
 }
